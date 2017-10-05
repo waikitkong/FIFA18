@@ -1,5 +1,8 @@
 # FIFA18
 
+## Shielding
+`L2` when you have the ball, this can be use while run against defender.
+
 ## Attack guide
 Cut from the wing to mid with `driven pass` is nice, add some skill moves is cool
 
