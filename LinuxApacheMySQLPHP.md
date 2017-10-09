@@ -1,4 +1,4 @@
-# ==================|Install MySQL server with Workbench(Admin tool)|==================
+# Install Linux(Ubuntu) + Apache(Web Server) + MySQL(Database) + PHP(Operator script)
 Create date: 2017-10-09
 ### Install Ubuntu server on a Virtual Machine
   You can use VMWare or Virtualbox as your tool.
