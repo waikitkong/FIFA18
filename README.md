@@ -38,3 +38,4 @@ Cut from the wing to mid with `driven pass` is nice, add some skill moves is coo
 - `Telebroadcast` + Default
 
 ## Corner kick tips
+- 'near post': Before taking corner, press 'down' button on keypad twice to issue command. Aim the corner kick on near post.
