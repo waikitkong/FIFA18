@@ -36,3 +36,5 @@ Cut from the wing to mid with `driven pass` is nice, add some skill moves is coo
 
 ## Best camera settings
 - `Telebroadcast` + Default
+
+## Corner kick tips
