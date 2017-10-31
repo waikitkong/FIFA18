@@ -5,7 +5,8 @@
 spam it when fight with defender
 
 ## Attack guide
-Cut from the wing to mid with `driven pass` is nice, add some skill moves is cool
+- Cut from the wing to mid with `driven pass` is nice, add some skill moves is cool.
+- Cut through the wing and use fake shot (SQUARE + X / O + X) to change direction.
 
 ## Skill moves
 - `Ball Roll` 90 degre to direction your player facing. around 1-2 m
